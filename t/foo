@@ -1,0 +1,14 @@
+ok 1 - use USPS::RateRequest;
+ok 2 - Testing Priority Mail&lt;sup&gt;&amp;reg;&lt;/sup&gt;
+ok 3 - Testing Priority Mail&lt;sup&gt;&amp;reg;&lt;/sup&gt; International
+ok 4 - Testing Priority Mail&lt;sup&gt;&\#174;&lt;/sup&gt;
+ok 5 - Testing First-Class Mail
+ok 6 - Testing Priority Mail&lt;sup&gt;&\#174;&lt;/sup&gt; Large Flat Rate Box
+ok 7 - Testing Priority Mail&lt;sup&gt;&\#174;&lt;/sup&gt; Medium Flat Rate Box
+ok 8 - Testing Priority Mail&lt;sup&gt;&\#174;&lt;/sup&gt; Small Flat Rate Box
+ok 9 - Testing Priority Mail&lt;sup&gt;&\#174;&lt;/sup&gt; Flat Rate Envelope
+ok 10 - Testing Priority Mail&lt;sup&gt;&\#174;&lt;/sup&gt; Legal Flat Rate Envelope
+ok 11 - Testing Priority Mail&lt;sup&gt;&\#174;&lt;/sup&gt; Padded Flat Rate Envelope
+ok 12 - Testing Priority Mail&lt;sup&gt;&\#174;&lt;/sup&gt; Gift Card Flat Rate Envelope
+ok 13 - Testing Standard Post&lt;sup&gt;&\#174;&lt;/sup&gt;
+1..13

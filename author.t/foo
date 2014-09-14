@@ -1,0 +1,4 @@
+ok 1 - use USPS::RateRequest;
+ok 2 - Weight violation throws an exception: Warning - The package weight cannot exceed 70 pounds.  
+ok 3 - Imaginary zip codes throws an exception: The Destination ZIP Code you have entered is invalid.
+1..3

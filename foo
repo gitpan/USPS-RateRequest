@@ -1,0 +1,143 @@
+ok 1 - use USPS::RateRequest;
+# Domestic
+# USPS Library
+# USPS Media
+# USPS Priority
+# USPS Priority Express
+# USPS Priority Express Flat Rate Box
+# USPS Priority Express Flat Rate Box Hold For Pickup
+# USPS Priority Express Flat Rate Envelope
+# USPS Priority Express Flat Rate Envelope Hold For Pickup
+# USPS Priority Express Hold For Pickup
+# USPS Priority Express Legal Flat Rate Envelope
+# USPS Priority Express Legal Flat Rate Envelope Hold For Pickup
+# USPS Priority Express Padded Flat Rate Envelope
+# USPS Priority Express Padded Flat Rate Envelope Hold For Pickup
+# USPS Priority Flat Rate Envelope
+# USPS Priority Gift Card Flat Rate Envelope
+# USPS Priority Large Flat Rate Box
+# USPS Priority Legal Flat Rate Envelope
+# USPS Priority Medium Flat Rate Box
+# USPS Priority Padded Flat Rate Envelope
+# USPS Priority Small Flat Rate Box
+# USPS Priority Small Flat Rate Envelope
+# USPS Priority Window Flat Rate Envelope
+# USPS Standard Post
+# USPS Priority Small Flat Rate Box{
+#   'postage' => '5.80'
+# }
+# USPS Priority Express Hold For Pickup{
+#   'postage' => '35.50'
+# }
+# USPS Priority Express Flat Rate Envelope{
+#   'postage' => '19.99'
+# }
+# USPS Priority Medium Flat Rate Box{
+#   'postage' => '12.35'
+# }
+# USPS Standard Post{
+#   'postage' => '6.45'
+# }
+# USPS Media{
+#   'postage' => '2.69'
+# }
+# USPS Priority Flat Rate Envelope{
+#   'postage' => '5.60'
+# }
+# USPS Library{
+#   'postage' => '2.56'
+# }
+# USPS Priority Express Legal Flat Rate Envelope{
+#   'postage' => '19.99'
+# }
+# USPS Priority Express Flat Rate Envelope Hold For Pickup{
+#   'postage' => '19.99'
+# }
+# USPS Priority Express Flat Rate Box Hold For Pickup{
+#   'postage' => '44.95'
+# }
+# USPS Priority Window Flat Rate Envelope{
+#   'postage' => '5.60'
+# }
+# USPS Priority Express{
+#   'postage' => '35.50'
+# }
+# USPS Priority Padded Flat Rate Envelope{
+#   'postage' => '5.95'
+# }
+# USPS Priority Express Flat Rate Box{
+#   'postage' => '44.95'
+# }
+# USPS Priority Legal Flat Rate Envelope{
+#   'postage' => '5.75'
+# }
+# USPS Priority Express Legal Flat Rate Envelope Hold For Pickup{
+#   'postage' => '19.99'
+# }
+# USPS Priority Small Flat Rate Envelope{
+#   'postage' => '5.60'
+# }
+# USPS Priority Large Flat Rate Box{
+#   'postage' => '17.45'
+# }
+# USPS Priority Express Padded Flat Rate Envelope{
+#   'postage' => '19.99'
+# }
+# USPS Priority{
+#   'postage' => '6.45'
+# }
+# USPS Priority Express Padded Flat Rate Envelope Hold For Pickup{
+#   'postage' => '19.99'
+# }
+# USPS Priority Gift Card Flat Rate Envelope{
+#   'postage' => '5.60'
+# }
+# Domestic Translation Table
+# USPS Library : undef
+# USPS Media : undef
+# USPS Priority : undef
+# USPS Priority Express : undef
+# USPS Priority Express Flat Rate Box : undef
+# USPS Priority Express Flat Rate Box Hold For Pickup : undef
+# USPS Priority Express Flat Rate Envelope : undef
+# USPS Priority Express Flat Rate Envelope Hold For Pickup : undef
+# USPS Priority Express Hold For Pickup : undef
+# USPS Priority Express Legal Flat Rate Envelope : undef
+# USPS Priority Express Legal Flat Rate Envelope Hold For Pickup : undef
+# USPS Priority Express Padded Flat Rate Envelope : undef
+# USPS Priority Express Padded Flat Rate Envelope Hold For Pickup : undef
+# USPS Priority Flat Rate Envelope : undef
+# USPS Priority Gift Card Flat Rate Envelope : undef
+# USPS Priority Large Flat Rate Box : undef
+# USPS Priority Legal Flat Rate Envelope : undef
+# USPS Priority Medium Flat Rate Box : undef
+# USPS Priority Padded Flat Rate Envelope : undef
+# USPS Priority Small Flat Rate Box : undef
+# USPS Priority Small Flat Rate Envelope : undef
+# USPS Priority Window Flat Rate Envelope : undef
+# USPS Standard Post : undef
+# International
+# USPS First-Class Package Service
+# USPS Global Express Guaranteed
+# USPS Global Express Guaranteed Envelope
+# USPS Priority
+# USPS Priority DVD Flat Rate Box
+# USPS Priority Express
+# USPS Priority Express Flat Rate Box
+# USPS Priority Large Flat Rate Box
+# USPS Priority Large Video Flat Rate Box
+# USPS Priority Medium Flat Rate Box
+# USPS Priority Small Flat Rate Box
+# International Translation Table
+# USPS First-Class Package Service : undef
+# USPS Global Express Guaranteed : undef
+# USPS Global Express Guaranteed Envelope : undef
+# USPS Priority : undef
+# USPS Priority DVD Flat Rate Box : undef
+# USPS Priority Express : undef
+# USPS Priority Express Flat Rate Box : undef
+# USPS Priority Large Flat Rate Box : undef
+# USPS Priority Large Video Flat Rate Box : undef
+# USPS Priority Medium Flat Rate Box : undef
+# USPS Priority Small Flat Rate Box : undef
+1..1
